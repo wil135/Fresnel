@@ -10,7 +10,7 @@ namespace Fresnel
 		Application();
 		virtual ~Application();
 
-		void Run();
+		void run();
 	};
 
 	// to be defined in client

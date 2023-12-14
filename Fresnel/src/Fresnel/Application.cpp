@@ -12,7 +12,7 @@ namespace Fresnel
 
 	}
 
-	void Application::Run()
+	void Application::run()
 	{
 		while (true);
 	}

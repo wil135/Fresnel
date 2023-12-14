@@ -1,0 +1,3 @@
+[submodule "Fresnel/vendor/spdlog"]
+	path = Fresnel/vendor/spdlog
+	url = https://github.com/gabime/spdlog
